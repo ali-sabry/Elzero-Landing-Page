@@ -1825,6 +1825,9 @@
 			border-top: 1px solid #b9b9b9;
 			padding: 15px 0;
 		}
+		footer .copyright a {
+			color: var(--main-color);
+		}
 	/* Footer On Small Screen  */
 	@media (max-width: 767px) {
 		footer {
@@ -1864,7 +1867,7 @@
 }
 @media (max-width: 767px) {
 	/* Start Articles */
-	.articles:before {
+	.articles::before {
 		top: -110px
 	}
 	/* End Articles */

@@ -1,32 +1,46 @@
-#  *Elzero Landing Page*
+# Elzero Landing Page
+Elzero Landing Page is a template for multi purpose agancy .
+```
+```
+
+## Table of contents
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Preview Link](#Preview-Link)
+
+```
+```
+
+# General info
+
+This Template is Re_building from exist project from [Elzero Academy](https://elzero.org/), this project is for training only.
+
+The purpose from rebuilding this template is to for practicing. & to be ready for real project.
+
+```
+```
+## Technologies
+Project is created with:
+* Html       : Version_5.
+* CSS        : Version_3.
+
+```
+```
+
+## Preview Link:
+
+Use the link to preview [Elzero Landing Page](https://ali-sabry.github.com/Elzero-Landing-Page).
+
+```bash
+Note: This Template Is For Presentation Only.
+```
 
 
-*Elzero Template Is A Landing Page I'm Re built It For Train Of The Code After Watch Html, And CSS Courses.* 
 
 
-### Template Source.
+## License
+This template is not for commercial Use if you need this template go to the original author [osama mohamed](https://www.facebook.com/OsElzero) .
 
-*This Template Is Designed And Ownerd By (Osama Mohamed) And i'm Re_Design It For Train OF The Code 
-=> main Preview Link For (Osama mohamed) => (https://elzerowebschool.github.io/HTML_And_CSS_Template_Three/).
-=> Redesign By Ali Sabry*
+```
 
-
-### Re_Design Preview Link.
-
-=> (https://ali-sabry.github.com/Elzero-Landin-Page).
-
-
-## Skills.
-
-This The Main Skills That I Used It For This Re_Design.
- 
-* Html5.
-* Css3.
-
-## Purpose Of This Re_Desgin.
-
-Convert My Courses Knowledge To Realy Code And OutPut This Project.
-
-## Copyright and attribution.
-
-Copyright (c) 2021 All Right Resarved For Main Author(Osama Mohamed), And Re_design Author (Ali Sabry).
+```
