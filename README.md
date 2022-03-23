@@ -30,7 +30,7 @@ Project is created with:
 
 ## Preview Link:
 
-Use the link to preview [Elzero Landing Page](https://ali-sabry.github.com/Elzero-Landing-Page).
+Use the link to preview [Elzero Landing Page](https://ali-sabry.github.io/elzero-landing).
 
 ```bash
 Note: This Template Is For Presentation Only.
