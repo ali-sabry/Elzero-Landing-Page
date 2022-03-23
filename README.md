@@ -14,7 +14,7 @@ The purpose from rebuilding this template is to for practicing. & to be ready fo
 <hr />
 
 ## Preview Link:
-Use the link to preview [Elzero Landing Page](https://ali-sabry.github.com/elzero-landing).
+Use the link to preview [Elzero Landing Page](https://ali-sabry.github.io/elzero-landing).
 
 <hr />
 
